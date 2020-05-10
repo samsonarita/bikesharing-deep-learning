@@ -1,4 +1,6 @@
 .udacity-pa/
+.DS_Store
+.ipynb_checkpoints
 
 *.sw[nop]
 .idea/
